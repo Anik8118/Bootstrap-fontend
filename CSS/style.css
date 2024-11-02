@@ -1,0 +1,46 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.search-bar{
+    background-color: #f5f5f5;
+    padding: 9px 19px;
+    border: none;
+    outline: none;
+    width: 50%;
+    margin-left: 20px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+.search-container button{
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: #f57724;
+    margin-left: -5px;
+    border-radius: 2px;
+}
+.card-body:hover{
+    background-color: #fff;
+}
+.card-title{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.card-price{
+    font-size: 18px;
+    color: #f57724;
+}
+.card-text{
+    font-size: 12px;
+}
+.bg-brand{
+    background-color: #ecececec;
+}
+.footer{
+    background-color: #2e2e54;
+    height: 400px;
+    color: #fff;
+}
+.para{
+    font-weight: 100;
+}
